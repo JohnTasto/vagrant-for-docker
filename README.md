@@ -7,7 +7,7 @@ A lightweight Vagrant box for working with Docker.
 - Vagrant
 - Virtualbox
 
-### Usage:
+### Usage
 
 Add any ports to forward to the `Vagrantfile`. Then from the terminal, run:
 ```
